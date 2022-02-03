@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XR pro", "XR pro\XR pro.csproj", "{7417E75A-3022-4AF9-98F8-13ED7592C650}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7417E75A-3022-4AF9-98F8-13ED7592C650}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7417E75A-3022-4AF9-98F8-13ED7592C650}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7417E75A-3022-4AF9-98F8-13ED7592C650}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7417E75A-3022-4AF9-98F8-13ED7592C650}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C01AAF73-58EB-4458-8406-FB32A6FD0C6F}
+	EndGlobalSection
+EndGlobal
